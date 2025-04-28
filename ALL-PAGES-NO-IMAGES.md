@@ -1,6 +1,7 @@
 # READ ME -> USE CTRL+F TO SEARCH
-- use mutliple names to search, sometimes someone used the abbrivation of the genre/game/series instead of the full name <br>
-example Unreal Tournament 1999 -> UE99
+- Try searching with different names of the same genre/game/series.<br>
+It could be that the original uploader used the abbreviation of the genre/game/series instead of the full name.<br>
+example Unreal Tournament 1999 -> UT99
 - some prints might require additional fixing since the tool used to "fix" them really didnt do it <br>
 see below
   - Folder_name
