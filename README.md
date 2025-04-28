@@ -1,6 +1,9 @@
 # info
 this github is mainly an archive of the old and locked printer [3D Print forum under the #votv-forums forum/channel](https://discord.com/channels/512287844258021376/1132040858343059638) <br>
-and a slow updated Printer Guide with a few VotV focused Blender Tutorials
+and a slow updated Printer Guide with a few VotV focused Blender Tutorials <br>
+If you require more assistance or help, please Join the EternityDev Games Discord <br>
+the link can be found under the [Voices of the Void Itch.io page](https://mrdrnose.itch.io/votv)<br>
+and check the [3D Model Discussion / Help Thread](https://discord.com/channels/512287844258021376/1240309070854881371) under the #votv-3d-printer Forum.
 
 # Guides
 ### [Printer Guide](https://github.com/madrod228/voicesoftheprinter/blob/main/Guide-VOTV%20Printer.md)
