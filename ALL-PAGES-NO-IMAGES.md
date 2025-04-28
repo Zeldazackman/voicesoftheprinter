@@ -1,4 +1,5 @@
 # READ ME -> USE CTRL+F TO SEARCH
+## CHECK THE PAGE FOR THE PREVIEW IMAGE
 - Try searching with different names of the same genre/game/series.<br>
 It could be that the original uploader used the abbreviation of the genre/game/series instead of the full name.<br>
 example Unreal Tournament 1999 -> UT99
