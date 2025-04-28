@@ -1,17 +1,18 @@
-# Info
-This is a Github containing all the 3D prints uploaded to [3D Print forum](https://discord.com/channels/512287844258021376/1132040858343059638) in the EternityDev Discord. Updated by multiple indivuduals to ensure it wont be deleted like the last one.
-
-There are tutorials made if you need help making prints, or need to make large prints. If you are confused and still need help please feel free to ask in the 3D forum as multiple people can assist you.
-
-# Submiting Prints
-You want to submit prints and you arent in the discord? Follow this!
-### [Printer Submission](https://github.com/madrod228/voicesoftheprinter/blob/main/Guide-%20Submiting%20Prints.md)
+# info
+this github is mainly an archive of the old and locked printer [3D Print forum under the #votv-forums forum/channel](https://discord.com/channels/512287844258021376/1132040858343059638) <br>
+and a slow updated Printer Guide with a few VotV focused Blender Tutorials
 
 # Guides
 ### [Printer Guide](https://github.com/madrod228/voicesoftheprinter/blob/main/Guide-VOTV%20Printer.md)
 ### [Speed Printing and Bypassing Printer limit](https://github.com/madrod228/voicesoftheprinter/blob/main/Guide-Bypass%20Limit%20and%20Speedprinting.md)
 ### [Baking Texture](https://github.com/madrod228/voicesoftheprinter/blob/main/Guide-How%20to%20bake%20textures%20in%20Blender.md)
 
+# Archive
+All Pages have **preview images**, and are therefore only 20 Prints+Previews per Page <br>
+if it were to be all in one page with all previews, you would get rate limited (cant access the site for a while)<br>
+so you have the choice of searching **all prints with no previews** via the below Page (read the top)<br>
+[All Pages no Images](ALL-PAGES-NO-IMAGES.md) <br>
+or scroll through all pages manually below.<br>
 # Pages
 ### [Page 1](https://github.com/madrod228/voicesoftheprinter/blob/main/The%20Pages/Page%20001.md)
 ### [Page 2](https://github.com/madrod228/voicesoftheprinter/blob/main/The%20Pages/Page%20002.md)
@@ -86,3 +87,15 @@ Sahneisttoll for the VOTV Printer Guide
 DatboiZyion for helping credit people during the github overhaul
 
 .vamist for fixing models to be compatible with 0.8+
+<br><br><br><br>
+old info text
+```
+# Info
+This is a Github containing all the 3D prints uploaded to [3D Print forum](https://discord.com/channels/512287844258021376/1132040858343059638) in the EternityDev Discord. Updated by multiple indivuduals to ensure it wont be deleted like the last one.
+
+There are tutorials made if you need help making prints, or need to make large prints. If you are confused and still need help please feel free to ask in the 3D forum as multiple people can assist you.
+
+# Submiting Prints
+You want to submit prints and you arent in the discord? Follow this!
+### [Printer Submission](https://github.com/madrod228/voicesoftheprinter/blob/main/Guide-%20Submiting%20Prints.md)
+```
